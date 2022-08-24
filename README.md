@@ -1,6 +1,7 @@
 # Foxy
 This project has been made for school project.
 
+You can play online on https://omer-faruk-yilmaz.itch.io/foxy
 
 Credits
 Sprites
